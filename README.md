@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=420&height=45&lines=Now+with+less+broken+YAML+files!;Definitely+not+in+production...+yet.;ADHD+inside+–+handle+with+care.;Runs+on+sudo+and+vibes.;More+commits+than+motivation.;May+contain+cron+jobs.;alias+chaos=me.;CTRL+C+CTRL+V+Engineer+approved." />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=420&height=45&lines=ADHD+inside+–+handle+with+care.;" />
 
 </p>
 
