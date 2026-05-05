@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=420&height=45&lines=ADHD+inside+–+handle+with+care.;" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=420&height=45&lines=.+.+–+.+.;" />
 
 </p>
 
