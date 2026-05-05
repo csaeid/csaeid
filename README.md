@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=420&height=45&lines=.+.+–+.+.;" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=420&height=45&lines=(+0+_+0+);" />
 
 </p>
 
